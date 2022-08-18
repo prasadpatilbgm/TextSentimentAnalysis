@@ -1,2 +1,2 @@
 # TextSentimentAnalysis
-Sentiment Analysis of Articles using their urls
+Sentiment Analysis of Articles using urls
